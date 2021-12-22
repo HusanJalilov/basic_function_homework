@@ -2,4 +2,3 @@
 def main():
     print("Hello World")
 # Return the value "Hello World"
-main()
